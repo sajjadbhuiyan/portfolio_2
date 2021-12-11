@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Edward Collind",
+    "position": "CTO at Gegora Inc",
+    "comment": "Sajjad is a professional worker who always gives results that are beyond our expectations and always provides solutions to produce better products, thanks for your cooperation",
+    "image": "https://i.ibb.co/VggztT5/about.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Mohammad Ibrahim",
+    "position": "IT Specialist at Anzam Golbal ",
+    "comment": "Sajjad is a professional worker who always gives results that are beyond our expectations and always provides solutions to produce better products, thanks for your cooperation",
+    "image": "https://i.ibb.co/0cNSD8v/about-1.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Mahadi Hasan",
+    "position": "Co-founder at Anzam Global Lt",
+    "comment": "Sajjad is a professional worker who always gives results that are beyond our expectations and always provides solutions to produce better products, thanks for your cooperation",
+    "image": "https://i.ibb.co/m9frMTP/about-2.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Taimur Khan",
+    "position": "Proprietor at SB Printing Press",
+    "comment": "Sajjad is a professional worker who always gives results that are beyond our expectations and always provides solutions to produce better products, thanks for your cooperation",
+    "image": "https://i.ibb.co/sjVWgmc/about-4.jpg"
+  }
+]

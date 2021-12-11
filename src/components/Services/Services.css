@@ -1,0 +1,117 @@
+.service {
+  background-color: #282833;
+  color: white;
+  padding: 200px 0px;
+  position: relative;
+  height: 1000px;
+}
+
+.social-box {
+  position: absolute;
+  top: -70px;
+  width: 65%;
+}
+
+.list-group-flush > .list-group-item {
+  border-width: 0 0 1px;
+  border-color: white;
+  background-color: #282833;
+  margin-top: 10px;
+  color: white;
+}
+
+.rightTopText h1 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.rightTopText p {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #d1d1db;
+  padding: 20px 0px;
+}
+
+.rightTopText h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  color: #ffba1a;
+  margin-top: 20px;
+}
+
+.rightTopText span {
+  font-family: "Work Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #d1d1db;
+}
+
+.list-group h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.list-group p {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #d1d1db;
+}
+
+.list-group span {
+  color: #ffba1a;
+  font-size: 18px;
+  width: 30px;
+}
+
+.social-statas {
+  background-color: #3f3f50;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-statas span {
+  padding: 20px 30px;
+  background-color: #353543;
+  margin: 30px 35px 30px 40px;
+}
+
+.bottom-service {
+  position: absolute;
+  bottom: -100px;
+}
+
+.service-card {
+  background-color: #3f3f50;
+  height: 358px;
+  width: 420px;
+  margin-right: 25px;
+}
+
+.service-card h3 {
+  padding: 14px 0px 20px 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.service-card p {
+  padding: 14px 0px 20px 20px;
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #d1d1db;
+}
+
+.service-card span {
+  margin: 20px 0px 0px 20px;
+  color: #ffba1a;
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}

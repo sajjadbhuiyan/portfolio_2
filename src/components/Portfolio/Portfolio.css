@@ -1,0 +1,61 @@
+.portfolio-heading h1 {
+  font-family: "Work Sans", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.portfolio-heading p {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #d1d1db;
+  padding: 20px 0px;
+}
+
+.colorbox {
+  background-color: #353543;
+  padding: 265px 0px 100px 0px;
+}
+
+.portfolio-card {
+  width: 588px;
+  height: 400px;
+  background-color: #282833;
+  margin-top: 30px;
+}
+
+.portfolio-text p {
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffba1a;
+  padding: 30px 0px 0px 40px;
+}
+
+.portfolio-text strong {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+  padding-left: 40px;
+}
+
+.portfolio-card a {
+  list-style: none;
+  color: #ffba1a;
+  padding: 30px 40px 0px 0px;
+}
+
+.portfloio-img {
+  padding: 17px 0px 0px 41px;
+}
+
+.button {
+  padding: 20px 30px;
+  border-radius: 30px;
+  border: 2px solid #ffba1a;
+  color: #ffba1a;
+  background-color: #282833;
+  text-decoration: none;
+}
